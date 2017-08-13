@@ -1,0 +1,139 @@
+#h_line{
+	
+}
+#diagonal2{
+	margin-left: 420px;
+	margin-top: 65px;
+	width :480px;
+	height:480px;
+	visibility: hidden;/**/
+}
+#diagonal1{
+	margin-top:-483px;
+	margin-left:419px;
+	width :480px;
+	height:480px;
+	visibility: hidden;
+	/*width: 100px;
+	height: 100px;*/
+}
+#vertical1{
+	margin-top:-480px;
+	margin-left:419px;
+	width :480px;
+	height:480px;
+	visibility: hidden;/**/
+}
+#vertical2{
+	margin-top:-480px;
+	margin-left:419px;
+	width :480px;
+	height:480px;
+	visibility: hidden;/**/
+}
+#vertical3{
+	margin-top:-480px;
+	margin-left:419px;
+	width :480px;
+	height:480px;
+	visibility: hidden;/**/
+}
+#horizontal1{
+	margin-top:-480px;
+	margin-left:419px;
+	width :480px;
+	height:480px;
+	visibility: hidden;/**/
+}
+#horizontal2{
+	margin-top:-480px;
+	margin-left:419px;
+	width :480px;
+	height:480px;
+	visibility: hidden;/**/
+}
+#horizontal3{
+	margin-top:-480px;
+	margin-left:419px;
+	width :480px;
+	height:480px;
+	visibility: hidden;/**/
+}
+body{
+	background-color: #000000;
+	color: white;
+}
+
+td{
+	font-size : 100px;
+	padding: 0px;
+	width: 150px;
+	height: 150px;
+	text-align: center;
+}
+
+#one{
+	border: 1px solid white;
+	border-top-style: none; 
+	border-left-style: none;
+}
+#two{
+	border: 1px solid white;
+	border-top-style: none; 
+	
+}
+#three{
+	border: 1px solid white;
+	border-top-style: none; 
+	border-right-style: none;
+	
+}
+#four{
+	border: 1px solid white; 
+	border-left-style: none;
+	
+}
+#five{
+	
+	border: 1px solid white;
+}
+#six{
+	border: 1px solid white; 
+	border-right-style: none;
+	
+}
+#seven{
+	border: 1px solid white;
+	border-bottom-style: none; 
+	border-left-style: none;
+	
+}
+#eigth{
+	border: 1px solid white; 
+	border-bottom-style: none;
+	
+}
+#nine{
+	border: 1px solid white;
+	border-bottom-style: none; 
+	border-right-style: none;
+}
+#header{
+	font-size: 70px;
+	font-family: Arial;
+	margin-left: 550px;
+	height: 70px;
+}
+
+
+tr{
+	border: none;
+}
+
+table{
+	border-collapse:collapse;
+	border: none;
+	margin-left: 427px;
+	margin-top:-470px;	
+	font-family: Arial;
+}
