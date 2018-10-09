@@ -1,4 +1,4 @@
-window.onload=playChance;
+window.onload=playChance;//testing
 //window.onload=draw;
 var flag=true;
 var event;
